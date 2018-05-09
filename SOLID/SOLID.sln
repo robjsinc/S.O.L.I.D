@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\1-SingleResponsibilityPrinciple.csproj", "{BFA50ECD-167E-4AB4-8A27-0E212CD14CFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1- SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\1- SingleResponsibilityPrinciple.csproj", "{BFA50ECD-167E-4AB4-8A27-0E212CD14CFD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-OpenClosedPrinciple", "2-OpenClosedPrinciple\2-OpenClosedPrinciple.csproj", "{B7DFF5A6-97A1-4B39-A57B-37EF645110DC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-OpenClosedPrincipleLibrary", "OpenClosedPrincipleLibrary\2-OpenClosedPrincipleLibrary.csproj", "{5C12856F-20D8-408F-A96F-E5CE1291FAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-LiskovSubstitutionPrinciple", "3-LiskovSubstitutionPrinciple\3-LiskovSubstitutionPrinciple.csproj", "{54831A53-4394-4710-ACB7-4E107FB29385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-LiskovSubstitutionPrincipleLibrary", "3-LiskovSubstitutionPrincipleLibrary\3-LiskovSubstitutionPrincipleLibrary.csproj", "{B5288BC6-F6DD-44BB-889E-E6A286CA0849}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{5C12856F-20D8-408F-A96F-E5CE1291FAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C12856F-20D8-408F-A96F-E5CE1291FAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C12856F-20D8-408F-A96F-E5CE1291FAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54831A53-4394-4710-ACB7-4E107FB29385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54831A53-4394-4710-ACB7-4E107FB29385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54831A53-4394-4710-ACB7-4E107FB29385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54831A53-4394-4710-ACB7-4E107FB29385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5288BC6-F6DD-44BB-889E-E6A286CA0849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5288BC6-F6DD-44BB-889E-E6A286CA0849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5288BC6-F6DD-44BB-889E-E6A286CA0849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5288BC6-F6DD-44BB-889E-E6A286CA0849}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
