@@ -1,0 +1,10 @@
+C:\Users\robjs\source\repos\SOLID\2-OpenClosedPrinciple\bin\Debug\2-OpenClosedPrinciple.exe.config
+C:\Users\robjs\source\repos\SOLID\2-OpenClosedPrinciple\bin\Debug\2-OpenClosedPrinciple.exe
+C:\Users\robjs\source\repos\SOLID\2-OpenClosedPrinciple\bin\Debug\2-OpenClosedPrinciple.pdb
+C:\Users\robjs\source\repos\SOLID\2-OpenClosedPrinciple\bin\Debug\OpenClosedPrincipleLibrary.dll
+C:\Users\robjs\source\repos\SOLID\2-OpenClosedPrinciple\bin\Debug\OpenClosedPrincipleLibrary.pdb
+C:\Users\robjs\source\repos\SOLID\2-OpenClosedPrinciple\obj\Debug\2-OpenClosedPrinciple.csprojAssemblyReference.cache
+C:\Users\robjs\source\repos\SOLID\2-OpenClosedPrinciple\obj\Debug\2-OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\robjs\source\repos\SOLID\2-OpenClosedPrinciple\obj\Debug\2-OpenClosedPrinciple.csproj.CopyComplete
+C:\Users\robjs\source\repos\SOLID\2-OpenClosedPrinciple\obj\Debug\2-OpenClosedPrinciple.exe
+C:\Users\robjs\source\repos\SOLID\2-OpenClosedPrinciple\obj\Debug\2-OpenClosedPrinciple.pdb

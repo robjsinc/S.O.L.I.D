@@ -1,0 +1,7 @@
+C:\Users\robjs\source\repos\SOLID\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe.config
+C:\Users\robjs\source\repos\SOLID\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe
+C:\Users\robjs\source\repos\SOLID\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.pdb
+C:\Users\robjs\source\repos\SOLID\SingleResponsibilityPrinciple\obj\Debug\1-SingleResponsibilityPrinciple.csprojAssemblyReference.cache
+C:\Users\robjs\source\repos\SOLID\SingleResponsibilityPrinciple\obj\Debug\1-SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\robjs\source\repos\SOLID\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.exe
+C:\Users\robjs\source\repos\SOLID\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.pdb
