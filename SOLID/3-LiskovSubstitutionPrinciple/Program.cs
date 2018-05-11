@@ -9,6 +9,26 @@ namespace _3_LiskovSubstitutionPrinciple
 {
     class Program
     {
+        /// <summary>
+        /// To fix this problem watch video from about 20 minutes in
+        /// Better to use interfaces if possible becuase of the limitations on Inheritance listed below
+        /// 
+        /// LSP Definition - if S is subtype of T - then object of type T may be replaced with object of type S without breaking the program  
+        /// LSP says I should be able to chaneg Employee for Manager below becuase Manager is a subtype of Employee
+        /// CEO is also a subtype of Employee but we cant change Empoyee to CEO - becuase the CEO doesnt have a manager!! - this is against LSP
+        /// Classes that have inherited from another class/type should be able to replace the class/type without breaking the program
+        /// 
+        /// 
+        /// 1 rule - the inherited class has to work in the same was as the base class.....
+        /// 2 rule - dont throw new exception in inherited class that arent in the base class - this is why Employee cant be replaced with CEO
+        /// 
+        ///  With inheritance its easy to get tripped up - "Is A" relationship test- a CEO "IS A" employee - not in C# becuase a CEO doesnt have a manager
+        ///  Also make sure to think if a method nees to be virtual - as if it isnt and you need to change it later this will break the OpenClosed principle
+        /// 
+        /// </summary>
+
+
+
         static void Main(string[] args)
         {
             Manager accountingVP = new Manager();
@@ -17,7 +37,9 @@ namespace _3_LiskovSubstitutionPrinciple
             accountingVP.FirstName = "Parker";
             accountingVP.CalculateHourRate(4);
 
-            Employee emp = new Employee();
+            Employee emp = new Employee(); /*HERE Manager(); works - CEO(); doesnt work*/
+                                      
+                                      
 
             emp.FirstName = "Bruce";
             emp.LastName = "Wayne";

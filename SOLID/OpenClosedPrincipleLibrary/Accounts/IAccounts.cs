@@ -1,4 +1,6 @@
-﻿namespace OpenClosedPrincipleLibrary
+﻿using _2_OpenClosedPrincipleLibrary;
+
+namespace OpenClosedPrincipleLibrary
 {
     public interface IAccounts
     {

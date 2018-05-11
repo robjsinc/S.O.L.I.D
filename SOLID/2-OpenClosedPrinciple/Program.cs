@@ -1,4 +1,5 @@
-﻿using OpenClosedPrincipleLibrary;
+﻿using _2_OpenClosedPrincipleLibrary;
+using OpenClosedPrincipleLibrary;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -42,6 +43,20 @@ namespace _2_OpenClosedPrinciple
 
             Look at the List<IApplicants> and you will see because the list is an interface we can add any class to the list that implements the interface
             This allows us to EXTEND the code to add new features but not modify the code that has been working in the live app
+
+            HOW THIS WORKS:
+
+            We want to take an applicant and turn them into an employee to do this we had an PersonModel an EmployeeModel and an Accounts class
+
+            We want to add Executives and Managers
+            Create interface from EmployeeModel
+            Create Executive/Manager models and have them implement the interface
+            Create interface from Accounts class.
+            Create Exec/ManagersAccounts classes from accounts interface.
+            Add this interface to the Applicant models and instatiate them with the account model they will use:
+            public IAccounts AccountProcessor { get; set; } = new ExecutiveAccounts();
+            We can now call this interface through the ApplicantModel object and add the returned account to a list
+            employees.Add(person.AccountProcessor.Create(person));
 
         */
 

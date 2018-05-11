@@ -1,0 +1,10 @@
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleFIXED\bin\Debug\3-LiskovSubstitutionPrincipleFIXED.exe.config
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleFIXED\bin\Debug\3-LiskovSubstitutionPrincipleFIXED.exe
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleFIXED\bin\Debug\3-LiskovSubstitutionPrincipleFIXED.pdb
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleFIXED\bin\Debug\3-LiskovSubstitutionPrincipleLibraryFIXED.dll
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleFIXED\bin\Debug\3-LiskovSubstitutionPrincipleLibraryFIXED.pdb
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleFIXED\obj\Debug\3-LiskovSubstitutionPrincipleFIXED.csprojAssemblyReference.cache
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleFIXED\obj\Debug\3-LiskovSubstitutionPrincipleFIXED.csproj.CoreCompileInputs.cache
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleFIXED\obj\Debug\3-LiskovSubstitutionPrincipleFIXED.csproj.CopyComplete
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleFIXED\obj\Debug\3-LiskovSubstitutionPrincipleFIXED.exe
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleFIXED\obj\Debug\3-LiskovSubstitutionPrincipleFIXED.pdb

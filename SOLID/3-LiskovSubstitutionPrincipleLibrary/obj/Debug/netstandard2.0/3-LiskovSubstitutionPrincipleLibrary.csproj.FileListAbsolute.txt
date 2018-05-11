@@ -1,0 +1,9 @@
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleLibrary\bin\Debug\netstandard2.0\3-LiskovSubstitutionPrincipleLibrary.deps.json
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleLibrary\bin\Debug\netstandard2.0\3-LiskovSubstitutionPrincipleLibrary.dll
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleLibrary\bin\Debug\netstandard2.0\3-LiskovSubstitutionPrincipleLibrary.pdb
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleLibrary\obj\Debug\netstandard2.0\3-LiskovSubstitutionPrincipleLibrary.csprojAssemblyReference.cache
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleLibrary\obj\Debug\netstandard2.0\3-LiskovSubstitutionPrincipleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleLibrary\obj\Debug\netstandard2.0\3-LiskovSubstitutionPrincipleLibrary.AssemblyInfoInputs.cache
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleLibrary\obj\Debug\netstandard2.0\3-LiskovSubstitutionPrincipleLibrary.AssemblyInfo.cs
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleLibrary\obj\Debug\netstandard2.0\3-LiskovSubstitutionPrincipleLibrary.dll
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleLibrary\obj\Debug\netstandard2.0\3-LiskovSubstitutionPrincipleLibrary.pdb
