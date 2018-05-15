@@ -1,0 +1,10 @@
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleFIXED\obj\Debug\5-DependencyInversionPrincipleFIXED.csprojAssemblyReference.cache
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleFIXED\obj\Debug\5-DependencyInversionPrincipleFIXED.csproj.CoreCompileInputs.cache
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleFIXED\bin\Debug\5-DependencyInversionPrincipleFIXED.exe.config
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleFIXED\bin\Debug\5-DependencyInversionPrincipleFIXED.exe
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleFIXED\bin\Debug\5-DependencyInversionPrincipleFIXED.pdb
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleFIXED\bin\Debug\5-DependencyInversionPrincipleLibraryFIXED.dll
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleFIXED\bin\Debug\5-DependencyInversionPrincipleLibraryFIXED.pdb
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleFIXED\obj\Debug\5-DependencyInversionPrincipleFIXED.csproj.CopyComplete
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleFIXED\obj\Debug\5-DependencyInversionPrincipleFIXED.exe
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleFIXED\obj\Debug\5-DependencyInversionPrincipleFIXED.pdb

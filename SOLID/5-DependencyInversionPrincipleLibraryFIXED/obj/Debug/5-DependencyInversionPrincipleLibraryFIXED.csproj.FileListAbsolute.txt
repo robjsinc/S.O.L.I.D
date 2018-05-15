@@ -1,0 +1,5 @@
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleLibraryFIXED\bin\Debug\5-DependencyInversionPrincipleLibraryFIXED.dll
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleLibraryFIXED\bin\Debug\5-DependencyInversionPrincipleLibraryFIXED.pdb
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleLibraryFIXED\obj\Debug\5-DependencyInversionPrincipleLibraryFIXED.csproj.CoreCompileInputs.cache
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleLibraryFIXED\obj\Debug\5-DependencyInversionPrincipleLibraryFIXED.dll
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\5-DependencyInversionPrincipleLibraryFIXED\obj\Debug\5-DependencyInversionPrincipleLibraryFIXED.pdb
