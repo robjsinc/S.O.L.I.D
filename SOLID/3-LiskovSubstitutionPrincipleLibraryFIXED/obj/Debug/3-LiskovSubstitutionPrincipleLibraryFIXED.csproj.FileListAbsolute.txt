@@ -3,3 +3,4 @@ C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleLibrary
 C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleLibraryFIXED\obj\Debug\3-LiskovSubstitutionPrincipleLibraryFIXED.csproj.CoreCompileInputs.cache
 C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleLibraryFIXED\obj\Debug\3-LiskovSubstitutionPrincipleLibraryFIXED.dll
 C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleLibraryFIXED\obj\Debug\3-LiskovSubstitutionPrincipleLibraryFIXED.pdb
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\3-LiskovSubstitutionPrincipleLibraryFIXED\obj\Debug\3-LiskovSubstitutionPrincipleLibraryFIXED.csprojAssemblyReference.cache

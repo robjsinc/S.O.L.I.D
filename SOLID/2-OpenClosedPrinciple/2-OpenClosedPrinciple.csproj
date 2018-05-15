@@ -49,8 +49,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OpenClosedPrincipleLibrary\2-OpenClosedPrincipleLibrary.csproj">
-      <Project>{5c12856f-20d8-408f-a96f-e5ce1291faf8}</Project>
+    <ProjectReference Include="..\2-OpenClosedPrincipleLibrary\2-OpenClosedPrincipleLibrary.csproj">
+      <Project>{eeb2c90d-caa6-4b7a-b712-8d755f48787f}</Project>
       <Name>2-OpenClosedPrincipleLibrary</Name>
     </ProjectReference>
   </ItemGroup>

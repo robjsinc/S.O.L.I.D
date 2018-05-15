@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _3_LiskovSubstitutionPrincipleLibraryFIXED
 {
-    public class Manager : Employee
+    public class Manager : Employee, IManager
     {
         public override void CalculateHourRate(int rank)
         {

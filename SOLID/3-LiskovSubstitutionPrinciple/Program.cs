@@ -10,6 +10,9 @@ namespace _3_LiskovSubstitutionPrinciple
     class Program
     {
         /// <summary>
+        /// 
+        /// LSP - About how to create a good inheritance structure
+        /// 
         /// To fix this problem watch video from about 20 minutes in
         /// Better to use interfaces if possible becuase of the limitations on Inheritance listed below
         /// 
@@ -22,8 +25,12 @@ namespace _3_LiskovSubstitutionPrinciple
         /// 1 rule - the inherited class has to work in the same was as the base class.....
         /// 2 rule - dont throw new exception in inherited class that arent in the base class - this is why Employee cant be replaced with CEO
         /// 
+        /// 
         ///  With inheritance its easy to get tripped up - "Is A" relationship test- a CEO "IS A" employee - not in C# becuase a CEO doesnt have a manager
-        ///  Also make sure to think if a method nees to be virtual - as if it isnt and you need to change it later this will break the OpenClosed principle
+        ///  if the class that needs to inherit "IS NOT A" of he base class - then cant use inheritance - Manager "IS A" Employee passes the test
+        ///  
+        ///  Also make sure to think if a method needs to be virtual when changing the class in the future  
+        ///  as if it isnt marked as virtual and you need to change it later this will break the OpenClosed principle
         /// 
         /// </summary>
 

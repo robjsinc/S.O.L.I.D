@@ -2,7 +2,7 @@
 
 namespace _3_LiskovSubstitutionPrincipleLibraryFIXED
 {
-    public class CEO : Employee
+    public class CEO : BaseEmployee, IManager
     {
         public override void CalculateHourRate(int rank)
         {
@@ -10,11 +10,6 @@ namespace _3_LiskovSubstitutionPrincipleLibraryFIXED
 
             Salary = baseAmount + (rank);
 
-        }
-
-        public override void AssignManager(Employee manager)
-        {
-            throw new InvalidOperationException("The CEO has no manager");
         }
 
         public void GeneratePerformanceReview()

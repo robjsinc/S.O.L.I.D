@@ -1,5 +1,4 @@
 ﻿using _2_OpenClosedPrincipleLibrary;
-using OpenClosedPrincipleLibrary;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +9,11 @@ namespace _2_OpenClosedPrinciple
 {
     class Program
     {
+        //Open Closed Principle - OCP
+        //https://www.youtube.com/watch?v=VFlk43QGEgc
+
+        //This examples takes applicants and creates employees then makes an employee list using interfaces.
+            
         //OCP - CLOSED for modification - OPEN for extension
         //OCP doesnt apply in the development process - once its in production the only reason you should change a class is if a bug is in it
         //BUT minor changes like this that dont effect the program - public bool IsManager { get; set; } = false;  are ok  
@@ -23,7 +27,7 @@ namespace _2_OpenClosedPrinciple
         
             as we have changed a class that was in production and working
 
-            we change it again - take out the if stattement and add a switch - this adds bugs to the program - we have taken code we rely on - hcnaged it and broke it
+            we change it again - take out the if stattement and add a switch - this adds bugs to the program - we have taken code we rely on - changed it and broke it
             this is against the OCP
              
             switch (person.TypeOfEmployee)
@@ -41,22 +45,22 @@ namespace _2_OpenClosedPrinciple
                     break;
             }
 
-            Look at the List<IApplicants> and you will see because the list is an interface we can add any class to the list that implements the interface
-            This allows us to EXTEND the code to add new features but not modify the code that has been working in the live app
 
-            HOW THIS WORKS:
+                Once a program has gone live you should not change the code the application relies on. For instance you should not change a function. 
+                You can make minor changes such as adding field as these wont break the program, but it you dont have to you shouldnt. 
 
-            We want to take an applicant and turn them into an employee to do this we had an PersonModel an EmployeeModel and an Accounts class
+                Example Setup - change 3 different applicants to EmployeeModel list:
 
-            We want to add Executives and Managers
-            Create interface from EmployeeModel
-            Create Executive/Manager models and have them implement the interface
-            Create interface from Accounts class.
-            Create Exec/ManagersAccounts classes from accounts interface.
-            Add this interface to the Applicant models and instatiate them with the account model they will use:
-            public IAccounts AccountProcessor { get; set; } = new ExecutiveAccounts();
-            We can now call this interface through the ApplicantModel object and add the returned account to a list
-            employees.Add(person.AccountProcessor.Create(person));
+                Three types of Applicants all implement the IAccounts interface:
+                PersonModel - ExecutiveModel and ManagerModel
+                The interface has variables, but also another interface to CreateAccount(); in it. Each is different depending on what account needs to be created e.g:
+                public IAccounts CreateAccount { get; set; } = new ManagerAccount();
+
+                ManagerAccount is one type of account - three types of Accounts can be created all implement the IAccounts interface:
+                PersonAccount - ExecutiveAccount and ManagerAccount
+                The interface has a function to Create(); in the classes this Create(); is different depoending on what account is required but all Create(); 
+                functions return the EmployeeModel
+
 
         */
 

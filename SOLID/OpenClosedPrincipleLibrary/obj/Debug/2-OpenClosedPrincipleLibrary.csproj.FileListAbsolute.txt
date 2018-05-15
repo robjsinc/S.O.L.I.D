@@ -1,6 +1,0 @@
-C:\Users\robjs\source\repos\SOLID\OpenClosedPrincipleLibrary\bin\Debug\OpenClosedPrincipleLibrary.dll
-C:\Users\robjs\source\repos\SOLID\OpenClosedPrincipleLibrary\bin\Debug\OpenClosedPrincipleLibrary.pdb
-C:\Users\robjs\source\repos\SOLID\OpenClosedPrincipleLibrary\obj\Debug\2-OpenClosedPrincipleLibrary.csproj.CoreCompileInputs.cache
-C:\Users\robjs\source\repos\SOLID\OpenClosedPrincipleLibrary\obj\Debug\OpenClosedPrincipleLibrary.dll
-C:\Users\robjs\source\repos\SOLID\OpenClosedPrincipleLibrary\obj\Debug\OpenClosedPrincipleLibrary.pdb
-C:\Users\robjs\source\repos\SOLID\OpenClosedPrincipleLibrary\obj\Debug\2-OpenClosedPrincipleLibrary.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\2-OpenClosedPrincipleLibrary\bin\Debug\netstandard2.0\2-OpenClosedPrincipleLibrary.deps.json
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\2-OpenClosedPrincipleLibrary\bin\Debug\netstandard2.0\2-OpenClosedPrincipleLibrary.dll
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\2-OpenClosedPrincipleLibrary\bin\Debug\netstandard2.0\2-OpenClosedPrincipleLibrary.pdb
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\2-OpenClosedPrincipleLibrary\obj\Debug\netstandard2.0\2-OpenClosedPrincipleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\2-OpenClosedPrincipleLibrary\obj\Debug\netstandard2.0\2-OpenClosedPrincipleLibrary.AssemblyInfoInputs.cache
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\2-OpenClosedPrincipleLibrary\obj\Debug\netstandard2.0\2-OpenClosedPrincipleLibrary.AssemblyInfo.cs
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\2-OpenClosedPrincipleLibrary\obj\Debug\netstandard2.0\2-OpenClosedPrincipleLibrary.dll
+C:\Users\robjs\source\repos\S.O.L.I.D\SOLID\2-OpenClosedPrincipleLibrary\obj\Debug\netstandard2.0\2-OpenClosedPrincipleLibrary.pdb
