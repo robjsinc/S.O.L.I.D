@@ -35,6 +35,7 @@ namespace _5_DependancyInversionPrinciple
         /// Create a constructor in Chore class - pass into the constructor the require interfaces - create interfaces in the class as fields and = the fields in 
         /// the constructor with the passed in interfaces - see the constructor in Chores for the example of this
         /// 
+        /// Any new anywhere is tight coupling - we want lose coupling using interfaces everywhere - nothing depends on enything - use interfaces everywhere
         /// 
         /// 
         /// 
